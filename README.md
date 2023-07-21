@@ -2,13 +2,11 @@
 Opencore B760M i5-13400F 6600XT
 about
 Opencore Bootloader 0.9.3. Tested on Ventura 13.4.1
+______________
 
 Introdution
 You will have to generate a new SMIBIOS before login to your iCloud account.
-
-Introdution
-You will have to generate a new SMIBIOS before login to your iCloud account.
-
+______________
 Hardware Specs
 
 + Motherboard: B760M Pro RS/D4 WiFi
@@ -17,7 +15,7 @@ Hardware Specs
 + RAM: 16GB DDR4 2666 ADATA
 + HDD: Samsung 500Gb
 + Wi-Fi & Bluetooth (on board): 802.11ax (WiFi 6E) + Bluetooth 5.3
-
+______________
 Working
 + CPU Turbo Boost & SpeedStep
 + Radeon™ RX 6600 XT
@@ -29,7 +27,7 @@ Working
 
 Not working
 + Airdrop / Airplay / Handoff
-
+_______________
 UEFI Settings
 
 Disabled
@@ -49,7 +47,7 @@ Enabled
 + Hyper-Threading
 + Execute Disable Bit
 + EHCI/XHCI Hand-off
-
+_______________
 Changelog
 2023-07-19
 
