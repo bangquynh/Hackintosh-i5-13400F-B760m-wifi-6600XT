@@ -22,10 +22,10 @@ Working
 + Internal Speaker / Front panel headphone out / Back panel lineout
 + USB Ports (all port include type C)
 + LAN & Wireless Network
-+ Bluetooth (ofc can not Airdrop)
++ Bluetooth
 + Sleep & Wakeup
 
-Not working
+Not working (not check, but maybe work fine, because it can see iphone and Macbook around)
 + Airdrop / Airplay / Handoff
 _______________
 UEFI Settings
