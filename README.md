@@ -9,7 +9,7 @@ You will have to generate a new SMIBIOS before login to your iCloud account.
 ______________
 Hardware Specs
 
-+ Motherboard: B760M Pro RS/D4 WiFi
++ Motherboard: ASRock B760M Pro RS/D4 WiFi
 + CPU: Intel® Core™ i5-13400F
 + GPU: MSI AMD Radeon RX 6600 XT 8GB
 + RAM: 16GB DDR4 2666 ADATA
