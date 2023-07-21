@@ -1,0 +1,2 @@
+# Hackintosh-i5-13400F-B760m-wifi-6600XT
+Opencore B760M i5-13400F 6600XT
